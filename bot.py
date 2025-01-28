@@ -15,7 +15,7 @@ from telegram.ext import (
 # Fest kodierte Tokens
 # -----------------------------------------
 TOKEN = "7743077318:AAEZw-EUa0A4kL65wjkjbnI-37nA6UsH8k0"
-CHAT_ID = "7743077318"
+CHAT_ID = 7743077318
 
 print(f"DEBUG: Verwende Bot-Token: {TOKEN[:5]}...")
 print(f"DEBUG: Verwende Chat-ID: {CHAT_ID}")
